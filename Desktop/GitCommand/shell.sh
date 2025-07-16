@@ -6,7 +6,3 @@ pwd
 pwd 
 
 sing of jaya 
-
-
-doing work on revert commad
-
