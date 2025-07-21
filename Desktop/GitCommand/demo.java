@@ -3,7 +3,3 @@
 
 hi this is jaya
 
-  ok this is new data
-  
-now iam learning fetch and pul
-  
